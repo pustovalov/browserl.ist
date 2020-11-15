@@ -2,7 +2,7 @@ name: Upgrade browserslist and caniuse-db
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 11 * * *"
 
 jobs:
   build:
@@ -42,6 +42,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
         with:
+          author_name: gh-bot
           message: "Upgrade browserslist and caniuse-db"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
