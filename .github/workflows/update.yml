@@ -2,7 +2,7 @@ name: Upgrade browserslist and caniuse-db
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
@@ -42,8 +42,6 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
         with:
-          author_name: Pavel Pustovalov
-          author_email: pustovalov@gmail.com
           message: "Upgrade browserslist and caniuse-db"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
