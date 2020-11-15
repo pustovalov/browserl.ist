@@ -37,7 +37,7 @@ jobs:
         run: yarn --frozen-lockfile
 
       - name: Upgrade browserslist and caniuse-db
-        run: yarn upgrade --latest browserslist caniuse-db
+        run: yarn upgrade browserslist caniuse-db
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
