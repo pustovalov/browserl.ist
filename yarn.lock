@@ -720,14 +720,14 @@ camelcase@^1.0.2:
   integrity sha1-m7UwTS4LVmmLLHWLCKPqqdqlijk=
 
 caniuse-db@^1.0.30001158:
-  version "1.0.30001205"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001205.tgz#ce556d6eb5d6e1f427ac6d0053c6083e9a206a4d"
-  integrity sha512-PspQrahuY+FFeMwbwi0XIr8SU9VxHhEtjT55L+YN49uvEUNyo9b3vc4qD5e3oKZAi+NMpVeZql6JjODeFVPIIg==
+  version "1.0.30001207"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001207.tgz#503c3c7d78a42ea7bcdb251a065e538b8232a8b2"
+  integrity sha512-vt1Y05aLuFE2CStt1+SHmZEJmOtf/Yn14lYhVbTGcqunHoNIspC1g6ybchbh1v6djHwQHzJpuPCsRdjaynLUKw==
 
 caniuse-lite@^1.0.30001181:
-  version "1.0.30001205"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001205.tgz#d79bf6a6fb13196b4bb46e5143a22ca0242e0ef8"
-  integrity sha512-TL1GrS5V6LElbitPazidkBMD9sa448bQDDLrumDqaggmKFcuU2JW1wTOHJPukAcOMtEmLcmDJEzfRrf+GjM0Og==
+  version "1.0.30001207"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001207.tgz#364d47d35a3007e528f69adb6fecb07c2bb2cc50"
+  integrity sha512-UPQZdmAsyp2qfCTiMU/zqGSWOYaY9F9LL61V8f+8MrubsaDGpaHD9HRV/EWZGULZn0Hxu48SKzI5DgFwTvHuYw==
 
 center-align@^0.1.1:
   version "0.1.3"
