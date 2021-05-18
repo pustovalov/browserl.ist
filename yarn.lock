@@ -720,9 +720,9 @@ camelcase@^1.0.2:
   integrity sha1-m7UwTS4LVmmLLHWLCKPqqdqlijk=
 
 caniuse-db@^1.0.30001158:
-  version "1.0.30001226"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001226.tgz#819cb5e266aa03fb49ae47edb37fa8e7feb7c008"
-  integrity sha512-hnC3hnMKAn/VaRHFb4fCe7snQRQFy0EZrK0AAomFbqGT18KXOtnPvTm0m+NvyRrBCR1jwFCjbUQvar0r6lBvOw==
+  version "1.0.30001227"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001227.tgz#e0dcb9bd94eeac49b9411110e18de3935be657ac"
+  integrity sha512-gq0d5NknMiV0KrcZNe5ePREw0XcA7G0shyURcrDasWw33pJkbWWSb6XBHz9GyxczCbKQYyh2OZG3hAPrnXZWng==
 
 caniuse-lite@^1.0.30001219:
   version "1.0.30001228"
@@ -1033,9 +1033,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.723:
-  version "1.3.728"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.728.tgz#dbedd6373f595ae10a13d146b66bece4c1afa5bd"
-  integrity sha512-SHv4ziXruBpb1Nz4aTuqEHBYi/9GNCJMYIJgDEXrp/2V01nFXMNFUTli5Z85f5ivSkioLilQatqBYFB44wNJrA==
+  version "1.3.730"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.730.tgz#6e1fad8f250827f5524672e572f823b34a6417e1"
+  integrity sha512-1Tr3h09wXhmqXnvDyrRe6MFgTeU0ZXy3+rMJWTrOHh/HNesWwBBrKnMxRJWZ86dzs8qQdw2c7ZE1/qeGHygImA==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
