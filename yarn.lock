@@ -720,14 +720,14 @@ camelcase@^1.0.2:
   integrity sha1-m7UwTS4LVmmLLHWLCKPqqdqlijk=
 
 caniuse-db@^1.0.30001158:
-  version "1.0.30001243"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001243.tgz#e303f7d9b6e0db5b8f3905d54b14f8c4ddacb1b7"
-  integrity sha512-2mF47FfW+TnkOcFVZJzG+m9mPh/Go7Qvf7M5T+srpykEd3YzhSuDKRQNLIIVRfHECNLYXjTUWwts51zjzjoXMg==
+  version "1.0.30001244"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30001244.tgz#a6dff32473648df0b0ae0f99d98797adfb7cf459"
+  integrity sha512-LM80yLx/6BWkuWBXwfLMaj0qt8OAbx/swsIMisLTQijeaXuXWNc901pLBjAm3ygrK7R9VzOWK5K0jFAPSLIu4g==
 
 caniuse-lite@^1.0.30001219:
-  version "1.0.30001243"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001243.tgz#d9250155c91e872186671c523f3ae50cfc94a3aa"
-  integrity sha512-vNxw9mkTBtkmLFnJRv/2rhs1yufpDfCkBZexG3Y0xdOH2Z/eE/85E4Dl5j1YUN34nZVsSp6vVRFQRrez9wJMRA==
+  version "1.0.30001244"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001244.tgz#a6dc49ad5fa02d81d04373ec3f5ceabc3da06abf"
+  integrity sha512-Wb4UFZPkPoJoKKVfELPWytRzpemjP/s0pe22NriANru1NoI+5bGNxzKtk7edYL8rmCWTfQO8eRiF0pn1Dqzx7Q==
 
 center-align@^0.1.1:
   version "0.1.3"
@@ -1033,9 +1033,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.723:
-  version "1.3.772"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.772.tgz#fd1ed39f9f3149f62f581734e4f026e600369479"
-  integrity sha512-X/6VRCXWALzdX+RjCtBU6cyg8WZgoxm9YA02COmDOiNJEZ59WkQggDbWZ4t/giHi/3GS+cvdrP6gbLISANAGYA==
+  version "1.3.774"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.774.tgz#4d6661a23119e35151646c9543b346bb3beca423"
+  integrity sha512-Fggh17Q1yyv1uMzq8Qn1Ci58P50qcRXMXd2MBcB9sxo6rJxjUutWcNw8uCm3gFWMdcblBO6mDT5HzX/RVRRECA==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
